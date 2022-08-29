@@ -12,7 +12,11 @@ a:hover {
 }
 
 .cyan {
+  /*
   background-color: rgba(30, 108, 147, 1);
+  */
+  background-color: darkred;
+
 }
 .offwhite {
   color: #f8f8f8;
