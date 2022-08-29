@@ -45,3 +45,8 @@ a:hover {
 p {
   padding-bottom: 2em;
 }
+
+.logo {
+  width: 1.1em;
+  height: auto;
+}
