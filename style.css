@@ -15,8 +15,7 @@ a:hover {
   /*
   background-color: rgba(30, 108, 147, 1);
   */
-  background-color: darkred;
-
+  background-color: #005A64
 }
 .offwhite {
   color: #f8f8f8;
@@ -49,4 +48,7 @@ p {
 .logo {
   width: 1.1em;
   height: auto;
+}
+h2 {
+  color: #67686b;
 }
