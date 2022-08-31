@@ -15,7 +15,7 @@ a:hover {
   /*
   background-color: rgba(30, 108, 147, 1);
   */
-  background-color: #005A64
+  background-color: #005a64;
 }
 .offwhite {
   color: #f8f8f8;
@@ -51,4 +51,10 @@ p {
 }
 h2 {
   color: #67686b;
+}
+
+@media screen and (max-width: 800px) {
+  div.example {
+    display: none;
+  }
 }
